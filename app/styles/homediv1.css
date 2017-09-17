@@ -11,6 +11,7 @@
     text-transform: uppercase;
     border:2px solid white; 
     margin-top: 50px;
+    color:white;
 }
 .mybtn1:hover{
 	text-decoration: none;
