@@ -12,6 +12,7 @@
     border:2px solid white; 
     margin-top: 50px;
     color:white;
+    background-color: transparent;
 }
 .mybtn1:hover{
 	text-decoration: none;
