@@ -1,0 +1,30 @@
+.homediv1{
+	background-image: url('/images/bg-cta.jpg');
+	padding: 50px;
+}
+.mybtn1{
+	font-size: 11px;
+    padding: 15px 45px;
+    border-radius: 300px;
+    font-family: Lato,Helvetica,Arial,sans-serif;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    border:2px solid white; 
+    margin-top: 50px;
+}
+.mybtn1:hover{
+	text-decoration: none;
+	background-color: black;
+	color:white;
+}
+.homediv1  .homediv1-2 .myimg1{
+}
+.homediv1 .mb-5{
+	font-size: 50px;
+	max-width: 500px;
+	margin-bottom: 90px;
+	font-family:Arial;
+    font-weight: 200;
+    letter-spacing: 1px;
+    padding: 30px 0px 0px 40px;
+}
